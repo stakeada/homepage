@@ -1,8 +1,6 @@
 # Hardware Requirements
 
-This is a reliable cardano stake pool focused on providing maximum security.
-
-We're using a dedicated root server on `Hetzner <https://www.hetzner.com/dedicated-rootserver>`__, which has the following characteristics:
+We're using a dedicated root server on [Hetzner](https://www.hetzner.com/dedicated-rootserver), which has the following characteristics:
 
 | Item               | Value               |
 |:-------------------|:--------------------|
